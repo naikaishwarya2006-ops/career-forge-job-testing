@@ -1,0 +1,18 @@
+{
+  "name": "jobprep-portal",
+  "version": "1.0.0",
+  "description": "Comprehensive Job Portal and Preparation Ecosystem for Tech Careers",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "job-portal",
+    "dsa-sheet",
+    "interview-preparation",
+    "aptitude",
+    "hiring-process"
+  ],
+  "author": "CareerForge Team",
+  "license": "MIT"
+}
